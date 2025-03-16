@@ -1,0 +1,2 @@
+#estructura
+hacer realizar algo

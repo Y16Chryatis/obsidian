@@ -1,0 +1,2 @@
+#compuestas 
+[[Objeto]] [[Acción]] [[Cambio]]

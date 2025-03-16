@@ -1,0 +1,2 @@
+#compuestas 
+[[Acción]] [[Parte]]  [[Dentro]]

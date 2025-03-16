@@ -1,0 +1,2 @@
+#estructura #lugar 
+estar

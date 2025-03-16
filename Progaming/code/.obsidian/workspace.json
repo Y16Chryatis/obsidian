@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "271814d8ac0c3345",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d748ecfab24b8b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d86f97c79fe4dbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Configuración.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Configuración"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ef9fd630b604d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd7ed9582912191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71c1411e3d89d026",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7a98650ecbdce957",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f6404238e48b9a0f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edd628daa79a94e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b3dc3f1871c418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "177ddf5256acbeb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "02b032742a8c1ded",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "10d5b5180cfaf155",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b51972e190a566e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Code"
+            }
+          },
+          {
+            "id": "60bc2f88e41fab56",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "0d86f97c79fe4dbe",
+  "lastOpenFiles": [
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/Change Branch.md",
+    "Vim/Configuración.md",
+    "Otros/a",
+    "Otros",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/New Branch.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/Sin título.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/Delete Branch.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/2.1.2 Branch.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.4 Add.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.9 Revert.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.8 Merge.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.6 Push.md",
+    "Git/2. Comandos/2.1 Basicos/2.1 Comandos Básicos.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.7 Pull.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.3 Clone.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.5 Commit.md",
+    "Git/2. Comandos/2.3 Recomndaciones/2.3 Recmonedaciones.md",
+    "Git/2. Comandos/2.3 Recomndaciones/2.3.1 Redactar Commits.md",
+    "Git/2. Comandos/2.3 Recomndaciones",
+    "Vim/2. Funciones/Modicar texto/Copiar linea.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.1 Status.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/View Branch.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch/Push Branch.md",
+    "Git/2. Comandos/2.1 Basicos/2.1.2 Branch",
+    "Git/2. Comandos/2. Comandos.md",
+    "Git/2. Comandos/2.1 Basicos",
+    "Git/1. Teoria",
+    "Git/0. Indice.md",
+    "Git/2. Comandos",
+    "Git",
+    "Vim/2. Funciones/2.1 Teclas/2.1 Normales/M.md",
+    "Vim/2. Funciones/Modicar texto",
+    "2025-03-01.md",
+    "Code.md",
+    "Sin título 1.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Vim/2. Funciones/2.2. Historial"
+  ]
+}

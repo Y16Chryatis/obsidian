@@ -1,0 +1,2 @@
+#compuestas 
+[[Parte]]  [[Negar]] 

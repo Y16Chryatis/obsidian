@@ -1,0 +1,2 @@
+#bases 
+cojunto de objetos
