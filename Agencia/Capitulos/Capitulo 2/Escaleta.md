@@ -1,0 +1,16 @@
+
+30. por la tarde: Monse esta con sus cosas afuera del cuartel, un auto civil se detiene y ella sube. los agentes Botas Mojadas y Sueter Roto estan dentro.
+31. el aunto llega a un complejo de oficinas, esntra al estacionamiento y ambos bajan, Botas le dice que la siga. suben por el asensor del estacionamiento
+32. las peurtas se abren y llegan a un lugar que parece el cuarto de revisión de un aeropuerto, le piden que saque las cosas de valor de su bolsa. y que entregue sus cosas, pidiéndole que revise bien.
+33. Toman su bolsa y la lanzan a un incinerador. las pocas cosas restantes pasan por un detector de rayos x, le piden que se quite la ropa y una agente la revisa, su ropa es arrojada al incinerador.
+34. le dan un pantalón de ejercicio blanco, una playera blanca y las pocas cosas que pudo salvar (una foto de su familia y la placa de su amigo), las puertas se abren, 
+35. Monse pregunta que si es asi para todos, papas responde que solo para los nuevos. monse pregunta que si no les preocupa que los agentes intenten algo, el dice que no hay forma en que eso pase, pero que los nuevos suelen ser tontos y prefieren evitar incidentes.
+36. entran a una sala común de tamaño medio donde ve agentes trabajando, caminando y a un niño esperando.
+37. entran a una oficina donde son recibidos por una señora de unos 48 años, -ella es la directora de operaciones- mira a mose -me alegra concoer a los nuevos reclutas, a partir de hoy tu vida, lo que conoces, y el mundo que ves cambiara para siempre. tendras que dejar tu vida atras, dejaras de existir en el mundo, estas segura que deseas seguir?- monse, no lo piensa lo digiere y luego de un segundo -dice firmemente que si- la directora duda -aun puedes dar marcha atras y seguir con tu vida-, monse repite con determinacion y calma que soprende a la directora -estoy segura-. Se te asignara una habitacion, Papas se encargara de  tu entrenamiento comienza mañana, a las 9 am. por ahora descansa.
+38. el elevador abre sus puertas, hay un pasillo con habitaciones, entra a un, tiene solo una cama, aunque grande y cómoda, una mesa pequeña con una silla y un baño. Papas -la puerta estará cerrada por fuera por seguridad. pasare por ti a las 8:45. puedes pedir comida por el teléfono de servicio a la habitación-.
+39. 8:45 tocan la puerta, mose (extrañada) -adelante...- porque tocas si tu tienes la llave?- Papas (serio) -educación-. le da un traje negro con camiza blanca -vistete-
+40. 8:50 monse sale de la habitacion mira al agente papas con cara seria -y la ropa interior?- papas la mira de regreso -no es lo que usas?- como consiguieron mi talla?- investigamos a nuestros agentes, no te preocupes compraremos ropa mas tarde, ahora iremos al campo de tiro- monse -yo se disparar -cierto, pero tu no vas a disparar- monse lo mira extrañada.
+41. monse es golpeada por múltiples bolas de tenis, por suerte la mascara evita que le den en la cara.
+42. papas -debes evitar que te den- monse molesta -como mierda se supone que lo haga?- despeja tu mente- Papas activa la maquina y lanza otra bola que le da a monse en la cabeza - eso no tiene sentido-. Papas (a todos) -es suficeinte por hoy- los otros agentes se retiran.
+43. Monse -que rayos es esto?- papas sin alteranse -entrenamiento- para que? -Para sobrevivir- monse recuerda como el oso destrozo a sus compañeros, silencio total en el campo de tiro.
+44. 

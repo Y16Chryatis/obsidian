@@ -1,0 +1,1 @@
+Es la fuerza contraria a Thalis, mas que una fuerza es el contra efecto de esta, 

@@ -1,41 +1,98 @@
 {
   "main": {
-    "id": "836ed690abc6886b",
+    "id": "c237fdfedcdbc137",
     "type": "split",
     "children": [
       {
-        "id": "2bfb532e6c6bc313",
+        "id": "006ffe8197112fb9",
         "type": "tabs",
         "children": [
           {
-            "id": "28514fa8ceccf32e",
+            "id": "d58618e7f69ef152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
+                "file": "Personajes/Descripcion/Lady Marion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Bases Datos"
+              "title": "Lady Marion"
+            }
+          },
+          {
+            "id": "b57c8e589530a6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Descripcion/Lady Marion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lady Marion"
+            }
+          },
+          {
+            "id": "8e1c4c0a787f1036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Descripcion/Lady Marion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lady Marion"
+            }
+          },
+          {
+            "id": "ebb639273a6835bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Movil/Lady Marion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lady Marion"
+            }
+          },
+          {
+            "id": "f82d89ab585d0b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personajes/Coartadas/Lady Marion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lady Marion"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "357c78b88b7df9be",
+    "id": "ad5a8419d203ea0a",
     "type": "split",
     "children": [
       {
-        "id": "a2d96c4be319242f",
+        "id": "71d5eccef54f464f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee6d3b8aa56db88",
+            "id": "f4873690c1677ec1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +105,7 @@
             }
           },
           {
-            "id": "14e43f3ef19345fe",
+            "id": "abdcd3dfbc47788a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +122,7 @@
             }
           },
           {
-            "id": "8681c2c494c82923",
+            "id": "cdeeba7d8ac1b2cb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +138,20 @@
     "width": 300
   },
   "right": {
-    "id": "af104d38a5287d6f",
+    "id": "1d23daf99126931b",
     "type": "split",
     "children": [
       {
-        "id": "ce61519dd9939d59",
+        "id": "6e7f9f82ef49924f",
         "type": "tabs",
         "children": [
           {
-            "id": "ddcf0b5157e5d04f",
+            "id": "b60e1a9dc555fe2f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personajes/Coartadas/Lady Marion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +161,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Lady Marion"
             }
           },
           {
-            "id": "7fcb9923799a0518",
+            "id": "4f48392fab7d986a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personajes/Coartadas/Lady Marion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Lady Marion"
             }
           },
           {
-            "id": "4295d716a6919961",
+            "id": "a6dcfc876c254066",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,68 +194,63 @@
             }
           },
           {
-            "id": "9a542037c9dd091f",
+            "id": "472aedbb741114d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ca021a4be1a29228",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
+                "file": "Personajes/Coartadas/Lady Marion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Tipos Bases Datos"
+              "title": "Esquema de Lady Marion"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "28514fa8ceccf32e",
+  "active": "f82d89ab585d0b38",
   "lastOpenFiles": [
-    "code/SQLite/1. Conceptos/Primera forma normal.md",
-    "code/SQLite/1. Conceptos/Normalizacion.md",
-    "code/SQLite/1. Conceptos/Definicion.md",
-    "Utiles.md",
-    "Yo.md",
-    "code/Python/database/Enviar SQL Multilinea.md",
-    "code/Vim/1. Modos/1.4. Línea de comandos.md",
-    "code/Vim/1. Modos/1.3. Visual.md",
-    "code/Vim/1. Modos/1.2. Inserción.md",
-    "code/Vim/1. Modos/1.1. Normal.md",
-    "code/Vim/1. Modos/1. Modos.md",
-    "code/Vim/Configuración.md",
-    "code/SQLite/1. Conceptos/Ventajas Bases de Datos.md",
-    "code/SQLite/1. Conceptos/Tipos de datos.md",
-    "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
-    "code/SQLite/1. Conceptos/Sistema Gestion SGBD.md",
-    "code/SQLite/1. Conceptos/SGBD Sistemas.md",
-    "code/SQLite/1. Conceptos/Características Base de Datos.md",
-    "code/SQLite/1. Conceptos/Base de datos.md",
-    "code/Python/database/Sqlite3.md",
-    "code/Python/UI/Kivy.md",
-    "code/Python/database/Enviar SQL monolinea.md",
-    "code/Python/database/Crear db.md",
-    "code/Python/database/Conectar db.md",
-    "code/Python/basics/print().md",
-    "code/Obsidian/Etiquetas.md",
-    "recursos",
-    "patern",
-    "prompts"
+    "Personajes/Movil/Lady Marion.md",
+    "Personajes/Coartadas/Lady Marion.md",
+    "Personajes/Descripcion/Lady Marion.md",
+    "Personajes/Arquetipos/Lady Marion.md",
+    "Personajes/Descripcion/Sin título.md",
+    "Personajes/Movil",
+    "Personajes/Coartadas",
+    "Personajes/Descripcion",
+    "Personajes/Arquetipos",
+    "Personajes"
   ]
 }

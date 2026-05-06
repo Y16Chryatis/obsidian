@@ -1,0 +1,1 @@
+Actualmente existen muchos grupos operando en todo el mundo, algunos autónomos y otros gestionado bajo organizaciones gubernamental o privadas. Se sabe que las creaturas son una especie de fuerza de la naturaleza que no puede ser erradicada. 

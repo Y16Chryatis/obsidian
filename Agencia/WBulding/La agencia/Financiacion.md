@@ -1,0 +1,1 @@
+**Financiamiento:** Varia dependiendo la epoca y la region por lo general: México (donativos de civiles), EE. UU. (fondos negros CIA), Rusia (KGB/FSB).

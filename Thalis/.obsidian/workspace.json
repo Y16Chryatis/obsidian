@@ -1,41 +1,112 @@
 {
   "main": {
-    "id": "836ed690abc6886b",
+    "id": "dd5cd652bd9d9749",
     "type": "split",
     "children": [
       {
-        "id": "2bfb532e6c6bc313",
+        "id": "e0ca6e6072162b15",
         "type": "tabs",
         "children": [
           {
-            "id": "28514fa8ceccf32e",
+            "id": "9f642912ef6208d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
+                "file": "Wbuilding/Mundo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Bases Datos"
+              "title": "Mundo"
+            }
+          },
+          {
+            "id": "580a916f8fca523e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trama/Sin título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título"
+            }
+          },
+          {
+            "id": "ebe8f474bd0fe1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulos/Cap 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cap 1"
+            }
+          },
+          {
+            "id": "2e3b37aedb99a4fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wbuilding/Historia/Resumen General.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resumen General"
+            }
+          },
+          {
+            "id": "0717789c375b625b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wbuilding/Thalis/Thalis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thalis"
+            }
+          },
+          {
+            "id": "da41c7c81a73cfc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wbuilding/Kestem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kestem"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "357c78b88b7df9be",
+    "id": "36c79682cfdc9a9a",
     "type": "split",
     "children": [
       {
-        "id": "a2d96c4be319242f",
+        "id": "f6d5881a82b08775",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee6d3b8aa56db88",
+            "id": "77c85c9b99a93f8a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +119,7 @@
             }
           },
           {
-            "id": "14e43f3ef19345fe",
+            "id": "c959bd9a0c26c798",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +136,7 @@
             }
           },
           {
-            "id": "8681c2c494c82923",
+            "id": "2916378b6177a5f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +152,15 @@
     "width": 300
   },
   "right": {
-    "id": "af104d38a5287d6f",
+    "id": "267ef37e25c29809",
     "type": "split",
     "children": [
       {
-        "id": "ce61519dd9939d59",
+        "id": "98aef6f7f172bd7c",
         "type": "tabs",
         "children": [
           {
-            "id": "ddcf0b5157e5d04f",
+            "id": "b86e90cdd67603a1",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +178,7 @@
             }
           },
           {
-            "id": "7fcb9923799a0518",
+            "id": "247bb37a4b5cae8f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +191,7 @@
             }
           },
           {
-            "id": "4295d716a6919961",
+            "id": "ff87f2382ae88601",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,68 +206,50 @@
             }
           },
           {
-            "id": "9a542037c9dd091f",
+            "id": "cf3c35b54f2b6abc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Tipos Bases Datos"
+              "title": "Esquema"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "28514fa8ceccf32e",
+  "active": "2e3b37aedb99a4fd",
   "lastOpenFiles": [
-    "code/SQLite/1. Conceptos/Primera forma normal.md",
-    "code/SQLite/1. Conceptos/Normalizacion.md",
-    "code/SQLite/1. Conceptos/Definicion.md",
-    "Utiles.md",
-    "Yo.md",
-    "code/Python/database/Enviar SQL Multilinea.md",
-    "code/Vim/1. Modos/1.4. Línea de comandos.md",
-    "code/Vim/1. Modos/1.3. Visual.md",
-    "code/Vim/1. Modos/1.2. Inserción.md",
-    "code/Vim/1. Modos/1.1. Normal.md",
-    "code/Vim/1. Modos/1. Modos.md",
-    "code/Vim/Configuración.md",
-    "code/SQLite/1. Conceptos/Ventajas Bases de Datos.md",
-    "code/SQLite/1. Conceptos/Tipos de datos.md",
-    "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
-    "code/SQLite/1. Conceptos/Sistema Gestion SGBD.md",
-    "code/SQLite/1. Conceptos/SGBD Sistemas.md",
-    "code/SQLite/1. Conceptos/Características Base de Datos.md",
-    "code/SQLite/1. Conceptos/Base de datos.md",
-    "code/Python/database/Sqlite3.md",
-    "code/Python/UI/Kivy.md",
-    "code/Python/database/Enviar SQL monolinea.md",
-    "code/Python/database/Crear db.md",
-    "code/Python/database/Conectar db.md",
-    "code/Python/basics/print().md",
-    "code/Obsidian/Etiquetas.md",
-    "recursos",
-    "patern",
-    "prompts"
+    "Capitulos/Cap 1.md",
+    "Wbuilding/Historia/Resumen General.md",
+    "Trama/Sin título.md",
+    "Capitulos",
+    "Wbuilding/Mundo.md",
+    "Wbuilding/Thalis/Thalis.md",
+    "Wbuilding/Kestem.md",
+    "Wbuilding/Thalis",
+    "Trama",
+    "Wbuilding/Magia",
+    "Wbuilding/Historia",
+    "Wbuilding"
   ]
 }

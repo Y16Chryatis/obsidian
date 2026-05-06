@@ -1,24 +1,48 @@
 {
   "main": {
-    "id": "836ed690abc6886b",
+    "id": "0182b1d457a341ce",
     "type": "split",
     "children": [
       {
-        "id": "2bfb532e6c6bc313",
+        "id": "39e1db2c0dd7c8d2",
         "type": "tabs",
         "children": [
           {
-            "id": "28514fa8ceccf32e",
+            "id": "a9090e0744caba64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "25b8f919dfc09d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
+                "file": "WBulding/Resumen Tecnico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos Bases Datos"
+              "title": "Resumen Tecnico"
+            }
+          },
+          {
+            "id": "55755c6b2ef9d16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capitulos/Capitulo1/Ejercito.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ejercito"
             }
           }
         ]
@@ -27,15 +51,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "357c78b88b7df9be",
+    "id": "7321028d5ea59736",
     "type": "split",
     "children": [
       {
-        "id": "a2d96c4be319242f",
+        "id": "e342a503a5de218f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee6d3b8aa56db88",
+            "id": "6e04ffb67fbcfa6f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +72,7 @@
             }
           },
           {
-            "id": "14e43f3ef19345fe",
+            "id": "9c33909e79527d3d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +89,7 @@
             }
           },
           {
-            "id": "8681c2c494c82923",
+            "id": "9cb1aff1ea9c0db0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +105,20 @@
     "width": 300
   },
   "right": {
-    "id": "af104d38a5287d6f",
+    "id": "fef7e1e5c1de9664",
     "type": "split",
     "children": [
       {
-        "id": "ce61519dd9939d59",
+        "id": "4dc4fbb12fb0d05a",
         "type": "tabs",
         "children": [
           {
-            "id": "ddcf0b5157e5d04f",
+            "id": "6b653310974eccca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plantillas/Sin título 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +128,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Sin título 2"
             }
           },
           {
-            "id": "7fcb9923799a0518",
+            "id": "cd843b28cb7ff8d3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plantillas/Sin título 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Sin título 2"
             }
           },
           {
-            "id": "4295d716a6919961",
+            "id": "0f7cc9342e7bea25",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,68 +161,75 @@
             }
           },
           {
-            "id": "9a542037c9dd091f",
+            "id": "d9a61b9cdc1040ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
+                "file": "Plantillas/Sin título 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Tipos Bases Datos"
+              "title": "Esquema de Sin título 2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
     }
   },
-  "active": "28514fa8ceccf32e",
+  "active": "a9090e0744caba64",
   "lastOpenFiles": [
-    "code/SQLite/1. Conceptos/Primera forma normal.md",
-    "code/SQLite/1. Conceptos/Normalizacion.md",
-    "code/SQLite/1. Conceptos/Definicion.md",
-    "Utiles.md",
-    "Yo.md",
-    "code/Python/database/Enviar SQL Multilinea.md",
-    "code/Vim/1. Modos/1.4. Línea de comandos.md",
-    "code/Vim/1. Modos/1.3. Visual.md",
-    "code/Vim/1. Modos/1.2. Inserción.md",
-    "code/Vim/1. Modos/1.1. Normal.md",
-    "code/Vim/1. Modos/1. Modos.md",
-    "code/Vim/Configuración.md",
-    "code/SQLite/1. Conceptos/Ventajas Bases de Datos.md",
-    "code/SQLite/1. Conceptos/Tipos de datos.md",
-    "code/SQLite/1. Conceptos/Tipos Bases Datos.md",
-    "code/SQLite/1. Conceptos/Sistema Gestion SGBD.md",
-    "code/SQLite/1. Conceptos/SGBD Sistemas.md",
-    "code/SQLite/1. Conceptos/Características Base de Datos.md",
-    "code/SQLite/1. Conceptos/Base de datos.md",
-    "code/Python/database/Sqlite3.md",
-    "code/Python/UI/Kivy.md",
-    "code/Python/database/Enviar SQL monolinea.md",
-    "code/Python/database/Crear db.md",
-    "code/Python/database/Conectar db.md",
-    "code/Python/basics/print().md",
-    "code/Obsidian/Etiquetas.md",
-    "recursos",
-    "patern",
-    "prompts"
+    "WBulding/Resumen Tecnico.md",
+    "Capitulos/Capitulo1/Ejercito.md",
+    "Capitulos/Capitulo1/Escaleta.md",
+    "Capitulos/Capitulo 2/Escaleta.md",
+    "WBulding/La Agencia (resumen).md",
+    "Capitulos/Capitulo1/Secuencia de eventos.md",
+    "WBulding/Resumen General.md",
+    "WBulding/La agencia/Entrenamiento.md",
+    "WBulding/Personajes.md",
+    "WBulding/La agencia/Organizacion.md",
+    "WBulding/La agencia/Localización y jurisdicción.md",
+    "WBulding/La agencia/Misión y Filosofía.md",
+    "WBulding/La agencia/Nombres.md",
+    "WBulding/La agencia/Mascarada.md",
+    "WBulding/La agencia/Financiacion.md",
+    "WBulding/La agencia/Estructura y Jerarquia.md",
+    "WBulding/Sin título.md",
+    "WBulding/Mundo/Actualidad.md",
+    "WBulding/Mundo/Pasado.md",
+    "Plantillas/Sin título.md",
+    "Capitulos/Capitulo1/Personajes/Angel Martinez Veracad.md",
+    "Capitulos/Capitulo1/Personajes/soldado Finoda.md",
+    "Capitulos/Capitulo1/Personajes/Soldado Doracot.md",
+    "Plantillas/Sin título 2.md",
+    "Capitulos/Capitulo 2/Personajes",
+    "Capitulos/Capitulo 2",
+    "Personajes/AgentesCampo/Conejo de Granja.md",
+    "Capitulos/Capitulo1/Personajes/Monserrat Carsa.md",
+    "Trama",
+    "Capitulos/Capitulo1/Personajes",
+    "Personajes/AgentesCampo",
+    "WBulding/La agencia",
+    "Capitulos/Capitulo1",
+    "Plantillas",
+    "Historia",
+    "Capitulos"
   ]
 }
